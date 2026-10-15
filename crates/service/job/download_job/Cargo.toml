@@ -49,7 +49,7 @@ hostname = "0.4.0"
 log = "0.4.14"
 subprocess = "0.2.9"
 tempdir = "0.3.7"
-zip = "0.6.6"
+zip = "2.1.3"
 
 sqlx = { version = "0.7.2", features = [ "mysql", "runtime-tokio", "tls-rustls", "chrono" ] }
 
