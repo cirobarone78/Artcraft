@@ -175,7 +175,7 @@ utoipa = { version = "4", features = ["chrono","actix_extras"] }
 utoipa-swagger-ui = { version = "7", features = ["actix-web"] }
 
 # TODO: move zip pieces into a separate library that encapsulates calls to this lib
-zip = "0.6.6"
+zip = "2.1.3"
 actix-web-actors = "4.3.0"
 actix = "0.13.5"
 
